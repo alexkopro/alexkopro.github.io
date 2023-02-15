@@ -28,7 +28,8 @@ twitter_username: alexkopro
 github_username:  alexkopro
 
 # Build settings
-theme: minima
+# theme: minima
+theme: pages-themes/hacker
 plugins:
   - jekyll-feed
 
